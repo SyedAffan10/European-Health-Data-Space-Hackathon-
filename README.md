@@ -2,6 +2,10 @@
 
 Gatekeeper decides requests for European Health Data Space (EHDS) data in seconds. It reads an applicant's request, decides whether the purpose is allowed under Regulation (EU) 2025/327, explains the decision in plain language with the articles it relies on, and then either computes privacy-protected statistics or opens a secure workspace with the selected records, from which nothing can be downloaded. Staff of the access body review every decision in their own workspace.
 
+**Demo video:**
+https://github.com/user-attachments/assets/3d455eac-0be8-4f27-aa7f-fd80bca813c4
+
+
 **Live demo:** https://85.217.173.14.sslip.io (synthetic data only). Use the workspace switcher at the top left for the applicant or access-body view, and the language switch for English or German.
 
 Built for Track 3 of the hackathon. The original track brief is in [docs/TRACK.md](docs/TRACK.md).
